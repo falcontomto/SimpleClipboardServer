@@ -14,7 +14,7 @@ Use the iOS shortcut below to quickly send text to the clipboard of a PC.
 - Run the script
 
 ## Usage
-Get the iOS shortcut here: https://www.icloud.com/shortcuts/6e90b6740dcb417eb1c82daeebaee60c
+Get the iOS shortcut here: https://www.icloud.com/shortcuts/cd5db9787ca44f1889e69cc116ab731e
 Share the text using the provided shortcut to send it to the server's clipboard.
 
 Alternatively, you can also make a GET request to the URL `http://{hostName}:4646/clipboard/{urlEncodedText}` to achieve the same.
